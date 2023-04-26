@@ -1,0 +1,555 @@
+Arrival time: 30 service time: 1id: 1
+Arrival time: 8 service time: 3id: 2
+Arrival time: 37 service time: 4id: 3
+Arrival time: 28 service time: 6id: 4
+Arrival time: 24 service time: 3id: 5
+Arrival time: 3 service time: 4id: 6
+Arrival time: 26 service time: 2id: 7
+Arrival time: 19 service time: 7id: 8
+Arrival time: 19 service time: 2id: 9
+Arrival time: 21 service time: 3id: 10
+Arrival time: 16 service time: 5id: 11
+Arrival time: 12 service time: 3id: 12
+Arrival time: 14 service time: 1id: 13
+Arrival time: 2 service time: 7id: 14
+Arrival time: 4 service time: 3id: 15
+Arrival time: 33 service time: 4id: 16
+Arrival time: 33 service time: 1id: 17
+Arrival time: 4 service time: 4id: 18
+Arrival time: 15 service time: 6id: 19
+Arrival time: 37 service time: 1id: 20
+Arrival time: 5 service time: 6id: 21
+Arrival time: 4 service time: 1id: 22
+Arrival time: 23 service time: 5id: 23
+Arrival time: 35 service time: 2id: 24
+Arrival time: 23 service time: 2id: 25
+Arrival time: 25 service time: 4id: 26
+Arrival time: 33 service time: 5id: 27
+Arrival time: 40 service time: 1id: 28
+Arrival time: 12 service time: 3id: 29
+Arrival time: 7 service time: 1id: 30
+Arrival time: 23 service time: 5id: 31
+Arrival time: 27 service time: 7id: 32
+Arrival time: 2 service time: 4id: 33
+Arrival time: 20 service time: 2id: 34
+Arrival time: 31 service time: 4id: 35
+Arrival time: 4 service time: 2id: 36
+Arrival time: 27 service time: 2id: 37
+Arrival time: 12 service time: 6id: 38
+Arrival time: 17 service time: 1id: 39
+Arrival time: 13 service time: 1id: 40
+Arrival time: 38 service time: 3id: 41
+Arrival time: 4 service time: 1id: 42
+Arrival time: 4 service time: 7id: 43
+Arrival time: 3 service time: 3id: 44
+Arrival time: 14 service time: 7id: 45
+Arrival time: 30 service time: 2id: 46
+Arrival time: 12 service time: 4id: 47
+Arrival time: 22 service time: 4id: 48
+Arrival time: 27 service time: 6id: 49
+Arrival time: 34 service time: 3id: 50
+At time 0 there are: in queue number 1
+At time 0 there are: in queue number 2
+At time 0 there are: in queue number 3
+At time 0 there are: in queue number 4
+At time 0 there are: in queue number 5
+At time 1 there are: in queue number 1
+At time 1 there are: in queue number 2
+At time 1 there are: in queue number 3
+At time 1 there are: in queue number 4
+At time 1 there are: in queue number 5
+At time 2 there are: Arrival time: 2 service time: 6id: 14
+in queue number 1
+At time 2 there are: Arrival time: 2 service time: 3id: 33
+in queue number 2
+At time 2 there are: in queue number 3
+At time 2 there are: in queue number 4
+At time 2 there are: in queue number 5
+At time 3 there are: Arrival time: 2 service time: 5id: 14
+in queue number 1
+At time 3 there are: Arrival time: 2 service time: 2id: 33
+in queue number 2
+At time 3 there are: Arrival time: 3 service time: 3id: 6
+in queue number 3
+At time 3 there are: Arrival time: 3 service time: 2id: 44
+in queue number 4
+At time 3 there are: in queue number 5
+At time 4 there are: Arrival time: 2 service time: 4id: 14
+Arrival time: 4 service time: 4id: 18
+in queue number 1
+At time 4 there are: Arrival time: 2 service time: 1id: 33
+Arrival time: 4 service time: 1id: 22
+in queue number 2
+At time 4 there are: Arrival time: 3 service time: 2id: 6
+Arrival time: 4 service time: 2id: 36
+in queue number 3
+At time 4 there are: Arrival time: 3 service time: 1id: 44
+Arrival time: 4 service time: 1id: 42
+in queue number 4
+At time 4 there are: Arrival time: 4 service time: 2id: 15
+Arrival time: 4 service time: 7id: 43
+in queue number 5
+At time 5 there are: Arrival time: 2 service time: 3id: 14
+Arrival time: 4 service time: 4id: 18
+Arrival time: 5 service time: 6id: 21
+in queue number 1
+At time 5 there are: Arrival time: 4 service time: 1id: 22
+in queue number 2
+At time 5 there are: Arrival time: 3 service time: 1id: 6
+Arrival time: 4 service time: 2id: 36
+in queue number 3
+At time 5 there are: Arrival time: 4 service time: 1id: 42
+in queue number 4
+At time 5 there are: Arrival time: 4 service time: 1id: 15
+Arrival time: 4 service time: 7id: 43
+in queue number 5
+At time 6 there are: Arrival time: 2 service time: 2id: 14
+Arrival time: 4 service time: 4id: 18
+Arrival time: 5 service time: 6id: 21
+in queue number 1
+At time 6 there are: in queue number 2
+At time 6 there are: Arrival time: 4 service time: 2id: 36
+in queue number 3
+At time 6 there are: in queue number 4
+At time 6 there are: Arrival time: 4 service time: 7id: 43
+in queue number 5
+At time 7 there are: Arrival time: 2 service time: 1id: 14
+Arrival time: 4 service time: 4id: 18
+Arrival time: 5 service time: 6id: 21
+in queue number 1
+At time 7 there are: in queue number 2
+At time 7 there are: Arrival time: 4 service time: 1id: 36
+in queue number 3
+At time 7 there are: in queue number 4
+At time 7 there are: Arrival time: 4 service time: 6id: 43
+in queue number 5
+At time 8 there are: Arrival time: 4 service time: 4id: 18
+Arrival time: 5 service time: 6id: 21
+in queue number 1
+At time 8 there are: Arrival time: 8 service time: 2id: 2
+in queue number 2
+At time 8 there are: in queue number 3
+At time 8 there are: in queue number 4
+At time 8 there are: Arrival time: 4 service time: 5id: 43
+in queue number 5
+At time 9 there are: Arrival time: 4 service time: 3id: 18
+Arrival time: 5 service time: 6id: 21
+in queue number 1
+At time 9 there are: Arrival time: 8 service time: 1id: 2
+in queue number 2
+At time 9 there are: in queue number 3
+At time 9 there are: in queue number 4
+At time 9 there are: Arrival time: 4 service time: 4id: 43
+in queue number 5
+At time 10 there are: Arrival time: 4 service time: 2id: 18
+Arrival time: 5 service time: 6id: 21
+in queue number 1
+At time 10 there are: in queue number 2
+At time 10 there are: in queue number 3
+At time 10 there are: in queue number 4
+At time 10 there are: Arrival time: 4 service time: 3id: 43
+in queue number 5
+At time 11 there are: Arrival time: 4 service time: 1id: 18
+Arrival time: 5 service time: 6id: 21
+in queue number 1
+At time 11 there are: in queue number 2
+At time 11 there are: in queue number 3
+At time 11 there are: in queue number 4
+At time 11 there are: Arrival time: 4 service time: 2id: 43
+in queue number 5
+At time 12 there are: Arrival time: 5 service time: 6id: 21
+in queue number 1
+At time 12 there are: Arrival time: 12 service time: 2id: 12
+Arrival time: 12 service time: 4id: 47
+in queue number 2
+At time 12 there are: Arrival time: 12 service time: 2id: 29
+in queue number 3
+At time 12 there are: Arrival time: 12 service time: 5id: 38
+in queue number 4
+At time 12 there are: Arrival time: 4 service time: 1id: 43
+in queue number 5
+At time 13 there are: Arrival time: 5 service time: 5id: 21
+Arrival time: 13 service time: 1id: 40
+in queue number 1
+At time 13 there are: Arrival time: 12 service time: 1id: 12
+Arrival time: 12 service time: 4id: 47
+in queue number 2
+At time 13 there are: Arrival time: 12 service time: 1id: 29
+in queue number 3
+At time 13 there are: Arrival time: 12 service time: 4id: 38
+in queue number 4
+At time 13 there are: in queue number 5
+At time 14 there are: Arrival time: 5 service time: 4id: 21
+Arrival time: 13 service time: 1id: 40
+in queue number 1
+At time 14 there are: Arrival time: 12 service time: 4id: 47
+in queue number 2
+At time 14 there are: Arrival time: 14 service time: 7id: 45
+in queue number 3
+At time 14 there are: Arrival time: 12 service time: 3id: 38
+in queue number 4
+At time 14 there are: in queue number 5
+At time 15 there are: Arrival time: 5 service time: 3id: 21
+Arrival time: 13 service time: 1id: 40
+in queue number 1
+At time 15 there are: Arrival time: 12 service time: 3id: 47
+in queue number 2
+At time 15 there are: Arrival time: 14 service time: 6id: 45
+in queue number 3
+At time 15 there are: Arrival time: 12 service time: 2id: 38
+in queue number 4
+At time 15 there are: Arrival time: 15 service time: 5id: 19
+in queue number 5
+At time 16 there are: Arrival time: 5 service time: 2id: 21
+Arrival time: 13 service time: 1id: 40
+in queue number 1
+At time 16 there are: Arrival time: 12 service time: 2id: 47
+Arrival time: 16 service time: 5id: 11
+in queue number 2
+At time 16 there are: Arrival time: 14 service time: 5id: 45
+in queue number 3
+At time 16 there are: Arrival time: 12 service time: 1id: 38
+in queue number 4
+At time 16 there are: Arrival time: 15 service time: 4id: 19
+in queue number 5
+At time 17 there are: Arrival time: 5 service time: 1id: 21
+Arrival time: 13 service time: 1id: 40
+in queue number 1
+At time 17 there are: Arrival time: 12 service time: 1id: 47
+Arrival time: 16 service time: 5id: 11
+in queue number 2
+At time 17 there are: Arrival time: 14 service time: 4id: 45
+Arrival time: 17 service time: 1id: 39
+in queue number 3
+At time 17 there are: in queue number 4
+At time 17 there are: Arrival time: 15 service time: 3id: 19
+in queue number 5
+At time 18 there are: Arrival time: 13 service time: 1id: 40
+in queue number 1
+At time 18 there are: Arrival time: 16 service time: 5id: 11
+in queue number 2
+At time 18 there are: Arrival time: 14 service time: 3id: 45
+Arrival time: 17 service time: 1id: 39
+in queue number 3
+At time 18 there are: in queue number 4
+At time 18 there are: Arrival time: 15 service time: 2id: 19
+in queue number 5
+At time 19 there are: Arrival time: 19 service time: 2id: 9
+in queue number 1
+At time 19 there are: Arrival time: 16 service time: 4id: 11
+in queue number 2
+At time 19 there are: Arrival time: 14 service time: 2id: 45
+Arrival time: 17 service time: 1id: 39
+in queue number 3
+At time 19 there are: Arrival time: 19 service time: 6id: 8
+in queue number 4
+At time 19 there are: Arrival time: 15 service time: 1id: 19
+in queue number 5
+At time 20 there are: Arrival time: 19 service time: 1id: 9
+Arrival time: 20 service time: 2id: 34
+in queue number 1
+At time 20 there are: Arrival time: 16 service time: 3id: 11
+in queue number 2
+At time 20 there are: Arrival time: 14 service time: 1id: 45
+Arrival time: 17 service time: 1id: 39
+in queue number 3
+At time 20 there are: Arrival time: 19 service time: 5id: 8
+in queue number 4
+At time 20 there are: in queue number 5
+At time 21 there are: Arrival time: 20 service time: 2id: 34
+in queue number 1
+At time 21 there are: Arrival time: 16 service time: 2id: 11
+in queue number 2
+At time 21 there are: Arrival time: 17 service time: 1id: 39
+in queue number 3
+At time 21 there are: Arrival time: 19 service time: 4id: 8
+in queue number 4
+At time 21 there are: Arrival time: 21 service time: 2id: 10
+in queue number 5
+At time 22 there are: Arrival time: 20 service time: 1id: 34
+Arrival time: 22 service time: 4id: 48
+in queue number 1
+At time 22 there are: Arrival time: 16 service time: 1id: 11
+in queue number 2
+At time 22 there are: in queue number 3
+At time 22 there are: Arrival time: 19 service time: 3id: 8
+in queue number 4
+At time 22 there are: Arrival time: 21 service time: 1id: 10
+in queue number 5
+At time 23 there are: Arrival time: 22 service time: 4id: 48
+in queue number 1
+At time 23 there are: Arrival time: 23 service time: 2id: 25
+in queue number 2
+At time 23 there are: Arrival time: 23 service time: 4id: 23
+Arrival time: 23 service time: 5id: 31
+in queue number 3
+At time 23 there are: Arrival time: 19 service time: 2id: 8
+in queue number 4
+At time 23 there are: in queue number 5
+At time 24 there are: Arrival time: 22 service time: 3id: 48
+in queue number 1
+At time 24 there are: Arrival time: 23 service time: 1id: 25
+in queue number 2
+At time 24 there are: Arrival time: 23 service time: 3id: 23
+Arrival time: 23 service time: 5id: 31
+in queue number 3
+At time 24 there are: Arrival time: 19 service time: 1id: 8
+in queue number 4
+At time 24 there are: Arrival time: 24 service time: 2id: 5
+in queue number 5
+At time 25 there are: Arrival time: 22 service time: 2id: 48
+Arrival time: 25 service time: 4id: 26
+in queue number 1
+At time 25 there are: in queue number 2
+At time 25 there are: Arrival time: 23 service time: 2id: 23
+Arrival time: 23 service time: 5id: 31
+in queue number 3
+At time 25 there are: in queue number 4
+At time 25 there are: Arrival time: 24 service time: 1id: 5
+in queue number 5
+At time 26 there are: Arrival time: 22 service time: 1id: 48
+Arrival time: 25 service time: 4id: 26
+in queue number 1
+At time 26 there are: Arrival time: 26 service time: 1id: 7
+in queue number 2
+At time 26 there are: Arrival time: 23 service time: 1id: 23
+Arrival time: 23 service time: 5id: 31
+in queue number 3
+At time 26 there are: in queue number 4
+At time 26 there are: in queue number 5
+At time 27 there are: Arrival time: 25 service time: 4id: 26
+in queue number 1
+At time 27 there are: Arrival time: 27 service time: 6id: 49
+in queue number 2
+At time 27 there are: Arrival time: 23 service time: 5id: 31
+in queue number 3
+At time 27 there are: Arrival time: 27 service time: 6id: 32
+in queue number 4
+At time 27 there are: Arrival time: 27 service time: 1id: 37
+in queue number 5
+At time 28 there are: Arrival time: 25 service time: 3id: 26
+Arrival time: 28 service time: 6id: 4
+in queue number 1
+At time 28 there are: Arrival time: 27 service time: 5id: 49
+in queue number 2
+At time 28 there are: Arrival time: 23 service time: 4id: 31
+in queue number 3
+At time 28 there are: Arrival time: 27 service time: 5id: 32
+in queue number 4
+At time 28 there are: in queue number 5
+At time 29 there are: Arrival time: 25 service time: 2id: 26
+Arrival time: 28 service time: 6id: 4
+in queue number 1
+At time 29 there are: Arrival time: 27 service time: 4id: 49
+in queue number 2
+At time 29 there are: Arrival time: 23 service time: 3id: 31
+in queue number 3
+At time 29 there are: Arrival time: 27 service time: 4id: 32
+in queue number 4
+At time 29 there are: in queue number 5
+At time 30 there are: Arrival time: 25 service time: 1id: 26
+Arrival time: 28 service time: 6id: 4
+in queue number 1
+At time 30 there are: Arrival time: 27 service time: 3id: 49
+Arrival time: 30 service time: 2id: 46
+in queue number 2
+At time 30 there are: Arrival time: 23 service time: 2id: 31
+in queue number 3
+At time 30 there are: Arrival time: 27 service time: 3id: 32
+in queue number 4
+At time 30 there are: in queue number 5
+At time 31 there are: Arrival time: 28 service time: 6id: 4
+in queue number 1
+At time 31 there are: Arrival time: 27 service time: 2id: 49
+Arrival time: 30 service time: 2id: 46
+in queue number 2
+At time 31 there are: Arrival time: 23 service time: 1id: 31
+in queue number 3
+At time 31 there are: Arrival time: 27 service time: 2id: 32
+in queue number 4
+At time 31 there are: Arrival time: 31 service time: 3id: 35
+in queue number 5
+At time 32 there are: Arrival time: 28 service time: 5id: 4
+in queue number 1
+At time 32 there are: Arrival time: 27 service time: 1id: 49
+Arrival time: 30 service time: 2id: 46
+in queue number 2
+At time 32 there are: in queue number 3
+At time 32 there are: Arrival time: 27 service time: 1id: 32
+in queue number 4
+At time 32 there are: Arrival time: 31 service time: 2id: 35
+in queue number 5
+At time 33 there are: Arrival time: 28 service time: 4id: 4
+Arrival time: 33 service time: 1id: 17
+in queue number 1
+At time 33 there are: Arrival time: 30 service time: 2id: 46
+in queue number 2
+At time 33 there are: Arrival time: 33 service time: 3id: 16
+Arrival time: 33 service time: 5id: 27
+in queue number 3
+At time 33 there are: in queue number 4
+At time 33 there are: Arrival time: 31 service time: 1id: 35
+in queue number 5
+At time 34 there are: Arrival time: 28 service time: 3id: 4
+Arrival time: 33 service time: 1id: 17
+in queue number 1
+At time 34 there are: Arrival time: 30 service time: 1id: 46
+in queue number 2
+At time 34 there are: Arrival time: 33 service time: 2id: 16
+Arrival time: 33 service time: 5id: 27
+in queue number 3
+At time 34 there are: Arrival time: 34 service time: 2id: 50
+in queue number 4
+At time 34 there are: in queue number 5
+At time 35 there are: Arrival time: 28 service time: 2id: 4
+Arrival time: 33 service time: 1id: 17
+in queue number 1
+At time 35 there are: in queue number 2
+At time 35 there are: Arrival time: 33 service time: 1id: 16
+Arrival time: 33 service time: 5id: 27
+in queue number 3
+At time 35 there are: Arrival time: 34 service time: 1id: 50
+in queue number 4
+At time 35 there are: Arrival time: 35 service time: 1id: 24
+in queue number 5
+At time 36 there are: Arrival time: 28 service time: 1id: 4
+Arrival time: 33 service time: 1id: 17
+in queue number 1
+At time 36 there are: in queue number 2
+At time 36 there are: Arrival time: 33 service time: 5id: 27
+in queue number 3
+At time 36 there are: in queue number 4
+At time 36 there are: in queue number 5
+At time 37 there are: Arrival time: 33 service time: 1id: 17
+in queue number 1
+At time 37 there are: Arrival time: 37 service time: 3id: 3
+in queue number 2
+At time 37 there are: Arrival time: 33 service time: 4id: 27
+in queue number 3
+At time 37 there are: in queue number 4
+At time 37 there are: in queue number 5
+At time 38 there are: in queue number 1
+At time 38 there are: Arrival time: 37 service time: 2id: 3
+in queue number 2
+At time 38 there are: Arrival time: 33 service time: 3id: 27
+in queue number 3
+At time 38 there are: Arrival time: 38 service time: 2id: 41
+in queue number 4
+At time 38 there are: in queue number 5
+At time 39 there are: in queue number 1
+At time 39 there are: Arrival time: 37 service time: 1id: 3
+in queue number 2
+At time 39 there are: Arrival time: 33 service time: 2id: 27
+in queue number 3
+At time 39 there are: Arrival time: 38 service time: 1id: 41
+in queue number 4
+At time 39 there are: in queue number 5
+At time 40 there are: in queue number 1
+At time 40 there are: in queue number 2
+At time 40 there are: Arrival time: 33 service time: 1id: 27
+in queue number 3
+At time 40 there are: in queue number 4
+At time 40 there are: in queue number 5
+At time 41 there are: in queue number 1
+At time 41 there are: in queue number 2
+At time 41 there are: in queue number 3
+At time 41 there are: in queue number 4
+At time 41 there are: in queue number 5
+At time 42 there are: in queue number 1
+At time 42 there are: in queue number 2
+At time 42 there are: in queue number 3
+At time 42 there are: in queue number 4
+At time 42 there are: in queue number 5
+At time 43 there are: in queue number 1
+At time 43 there are: in queue number 2
+At time 43 there are: in queue number 3
+At time 43 there are: in queue number 4
+At time 43 there are: in queue number 5
+At time 44 there are: in queue number 1
+At time 44 there are: in queue number 2
+At time 44 there are: in queue number 3
+At time 44 there are: in queue number 4
+At time 44 there are: in queue number 5
+At time 45 there are: in queue number 1
+At time 45 there are: in queue number 2
+At time 45 there are: in queue number 3
+At time 45 there are: in queue number 4
+At time 45 there are: in queue number 5
+At time 46 there are: in queue number 1
+At time 46 there are: in queue number 2
+At time 46 there are: in queue number 3
+At time 46 there are: in queue number 4
+At time 46 there are: in queue number 5
+At time 47 there are: in queue number 1
+At time 47 there are: in queue number 2
+At time 47 there are: in queue number 3
+At time 47 there are: in queue number 4
+At time 47 there are: in queue number 5
+At time 48 there are: in queue number 1
+At time 48 there are: in queue number 2
+At time 48 there are: in queue number 3
+At time 48 there are: in queue number 4
+At time 48 there are: in queue number 5
+At time 49 there are: in queue number 1
+At time 49 there are: in queue number 2
+At time 49 there are: in queue number 3
+At time 49 there are: in queue number 4
+At time 49 there are: in queue number 5
+At time 50 there are: in queue number 1
+At time 50 there are: in queue number 2
+At time 50 there are: in queue number 3
+At time 50 there are: in queue number 4
+At time 50 there are: in queue number 5
+At time 51 there are: in queue number 1
+At time 51 there are: in queue number 2
+At time 51 there are: in queue number 3
+At time 51 there are: in queue number 4
+At time 51 there are: in queue number 5
+At time 52 there are: in queue number 1
+At time 52 there are: in queue number 2
+At time 52 there are: in queue number 3
+At time 52 there are: in queue number 4
+At time 52 there are: in queue number 5
+At time 53 there are: in queue number 1
+At time 53 there are: in queue number 2
+At time 53 there are: in queue number 3
+At time 53 there are: in queue number 4
+At time 53 there are: in queue number 5
+At time 54 there are: in queue number 1
+At time 54 there are: in queue number 2
+At time 54 there are: in queue number 3
+At time 54 there are: in queue number 4
+At time 54 there are: in queue number 5
+At time 55 there are: in queue number 1
+At time 55 there are: in queue number 2
+At time 55 there are: in queue number 3
+At time 55 there are: in queue number 4
+At time 55 there are: in queue number 5
+At time 56 there are: in queue number 1
+At time 56 there are: in queue number 2
+At time 56 there are: in queue number 3
+At time 56 there are: in queue number 4
+At time 56 there are: in queue number 5
+At time 57 there are: in queue number 1
+At time 57 there are: in queue number 2
+At time 57 there are: in queue number 3
+At time 57 there are: in queue number 4
+At time 57 there are: in queue number 5
+At time 58 there are: in queue number 1
+At time 58 there are: in queue number 2
+At time 58 there are: in queue number 3
+At time 58 there are: in queue number 4
+At time 58 there are: in queue number 5
+At time 59 there are: in queue number 1
+At time 59 there are: in queue number 2
+At time 59 there are: in queue number 3
+At time 59 there are: in queue number 4
+At time 59 there are: in queue number 5
+At time 60 there are: in queue number 1
+At time 60 there are: in queue number 2
+At time 60 there are: in queue number 3
+At time 60 there are: in queue number 4
+At time 60 there are: in queue number 5
+Average waiting time: 1.38
+Average service time: 3.48
+Peak hour: 4

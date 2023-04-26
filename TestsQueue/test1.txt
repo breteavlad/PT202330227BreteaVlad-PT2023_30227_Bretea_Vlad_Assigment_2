@@ -1,0 +1,137 @@
+Arrival time: 6 service time: 3id: 1
+Arrival time: 24 service time: 3id: 2
+Arrival time: 14 service time: 2id: 3
+Arrival time: 19 service time: 4id: 4
+At time 0 there are: in queue number 1
+At time 0 there are: in queue number 2
+At time 1 there are: in queue number 1
+At time 1 there are: in queue number 2
+At time 2 there are: in queue number 1
+At time 2 there are: in queue number 2
+At time 3 there are: in queue number 1
+At time 3 there are: in queue number 2
+At time 4 there are: in queue number 1
+At time 4 there are: in queue number 2
+At time 5 there are: in queue number 1
+At time 5 there are: in queue number 2
+At time 6 there are: Arrival time: 6 service time: 2id: 1
+in queue number 1
+At time 6 there are: in queue number 2
+At time 7 there are: Arrival time: 6 service time: 1id: 1
+in queue number 1
+At time 7 there are: in queue number 2
+At time 8 there are: in queue number 1
+At time 8 there are: in queue number 2
+At time 9 there are: in queue number 1
+At time 9 there are: in queue number 2
+At time 10 there are: in queue number 1
+At time 10 there are: in queue number 2
+At time 11 there are: in queue number 1
+At time 11 there are: in queue number 2
+At time 12 there are: in queue number 1
+At time 12 there are: in queue number 2
+At time 13 there are: in queue number 1
+At time 13 there are: in queue number 2
+At time 14 there are: Arrival time: 14 service time: 1id: 3
+in queue number 1
+At time 14 there are: in queue number 2
+At time 15 there are: in queue number 1
+At time 15 there are: in queue number 2
+At time 16 there are: in queue number 1
+At time 16 there are: in queue number 2
+At time 17 there are: in queue number 1
+At time 17 there are: in queue number 2
+At time 18 there are: in queue number 1
+At time 18 there are: in queue number 2
+At time 19 there are: Arrival time: 19 service time: 3id: 4
+in queue number 1
+At time 19 there are: in queue number 2
+At time 20 there are: Arrival time: 19 service time: 2id: 4
+in queue number 1
+At time 20 there are: in queue number 2
+At time 21 there are: Arrival time: 19 service time: 1id: 4
+in queue number 1
+At time 21 there are: in queue number 2
+At time 22 there are: in queue number 1
+At time 22 there are: in queue number 2
+At time 23 there are: in queue number 1
+At time 23 there are: in queue number 2
+At time 24 there are: Arrival time: 24 service time: 2id: 2
+in queue number 1
+At time 24 there are: in queue number 2
+At time 25 there are: Arrival time: 24 service time: 1id: 2
+in queue number 1
+At time 25 there are: in queue number 2
+At time 26 there are: in queue number 1
+At time 26 there are: in queue number 2
+At time 27 there are: in queue number 1
+At time 27 there are: in queue number 2
+At time 28 there are: in queue number 1
+At time 28 there are: in queue number 2
+At time 29 there are: in queue number 1
+At time 29 there are: in queue number 2
+At time 30 there are: in queue number 1
+At time 30 there are: in queue number 2
+At time 31 there are: in queue number 1
+At time 31 there are: in queue number 2
+At time 32 there are: in queue number 1
+At time 32 there are: in queue number 2
+At time 33 there are: in queue number 1
+At time 33 there are: in queue number 2
+At time 34 there are: in queue number 1
+At time 34 there are: in queue number 2
+At time 35 there are: in queue number 1
+At time 35 there are: in queue number 2
+At time 36 there are: in queue number 1
+At time 36 there are: in queue number 2
+At time 37 there are: in queue number 1
+At time 37 there are: in queue number 2
+At time 38 there are: in queue number 1
+At time 38 there are: in queue number 2
+At time 39 there are: in queue number 1
+At time 39 there are: in queue number 2
+At time 40 there are: in queue number 1
+At time 40 there are: in queue number 2
+At time 41 there are: in queue number 1
+At time 41 there are: in queue number 2
+At time 42 there are: in queue number 1
+At time 42 there are: in queue number 2
+At time 43 there are: in queue number 1
+At time 43 there are: in queue number 2
+At time 44 there are: in queue number 1
+At time 44 there are: in queue number 2
+At time 45 there are: in queue number 1
+At time 45 there are: in queue number 2
+At time 46 there are: in queue number 1
+At time 46 there are: in queue number 2
+At time 47 there are: in queue number 1
+At time 47 there are: in queue number 2
+At time 48 there are: in queue number 1
+At time 48 there are: in queue number 2
+At time 49 there are: in queue number 1
+At time 49 there are: in queue number 2
+At time 50 there are: in queue number 1
+At time 50 there are: in queue number 2
+At time 51 there are: in queue number 1
+At time 51 there are: in queue number 2
+At time 52 there are: in queue number 1
+At time 52 there are: in queue number 2
+At time 53 there are: in queue number 1
+At time 53 there are: in queue number 2
+At time 54 there are: in queue number 1
+At time 54 there are: in queue number 2
+At time 55 there are: in queue number 1
+At time 55 there are: in queue number 2
+At time 56 there are: in queue number 1
+At time 56 there are: in queue number 2
+At time 57 there are: in queue number 1
+At time 57 there are: in queue number 2
+At time 58 there are: in queue number 1
+At time 58 there are: in queue number 2
+At time 59 there are: in queue number 1
+At time 59 there are: in queue number 2
+At time 60 there are: in queue number 1
+At time 60 there are: in queue number 2
+Average waiting time: 0.0
+Average service time: 3.0
+Peak hour: 6
